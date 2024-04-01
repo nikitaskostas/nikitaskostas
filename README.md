@@ -9,12 +9,12 @@
       - OpenAI API documentation
         - Quickstart
         - Text to Speech
-      - nano
+      - curl, nano, sox
       - [Audio Data Processing in Python](https://www.youtube.com/watch?v=ZqpSb5p1xQo)
       - Goals for tomorrow:
         - Socket streaming for Audio
         - Install all libraries in Pytorch
-        - Read libraries' docs
+        - Read libraries' docs and understand them
         - Chat voice stream pipeline: Input -> GPT3 -> Out as Stream -> TTS -> Play Out as Stream
         - Commence study of OpenAI API documentation
          
