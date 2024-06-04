@@ -36,6 +36,34 @@
   - [POSIX](https://www.computerweekly.com/de/definition/POSIX-Portable-Operating-System-Interface)
 - Terms
   - _scuffed_ - adjective. marred or scratched by scraping or hard use: He had on a worn-out old coat, workman's pants, and scuffed boots.
+ 
+## June
+- LLM tools
+  - [llama-fs](https://github.com/iyaja/llama-fs)
+    - [FastAPI](https://fastapi.tiangolo.com/) and on [Wikipedia](https://en.wikipedia.org/wiki/FastAPI)
+      - [REST](https://en.wikipedia.org/wiki/REST)ful APIs ie. Representational state transfer
+      - [API](https://en.wikipedia.org/wiki/API)
+        - [Interface](https://en.wikipedia.org/wiki/Interface_(computing)) see can of worms.
+          - [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
+      - [Web Framework](https://en.wikipedia.org/wiki/Web_framework)
+        - [Software Stack](https://en.wikipedia.org/wiki/Solution_stack) HOLY SHIT !!
+          - [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle))
+            - [Apache](https://en.wikipedia.org/wiki/Apache_HTTP_Server) [Webserver](https://en.wikipedia.org/wiki/Web_server)
+              - [Daemon](https://en.wikipedia.org/wiki/Daemon_(computing))
+              - [Data Validation](https://en.wikipedia.org/wiki/Data_validation)
+              - [Serialization](https://en.wikipedia.org/wiki/Serialization)
+          - [Frontend / Backend](https://en.wikipedia.org/wiki/Frontend_and_backend)
+        - [Web server](https://en.wikipedia.org/wiki/Web_server)
+        - [Software Repository](https://en.wikipedia.org/wiki/Software_repository)
+      - [OpenAI Specification](https://en.wikipedia.org/wiki/OpenAPI_Specification)
+  - Can of Worms (opened: no)
+    - [Marker Interfaces](https://en.wikipedia.org/wiki/Marker_interface_pattern)
+      - [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
+      - Java Objects: Interface [Serializable](https://docs.oracle.com/en/java/javase/19/docs/api/java.base/java/io/Serializable.html) and [ObjectOutputStream](https://docs.oracle.com/en/java/javase/19/docs/api/java.base/java/io/ObjectOutputStream.html)
+      - [Transient](https://en.wikipedia.org/wiki/Transient_(computer_programming)) Property
+      - [Metadata](https://en.wikipedia.org/wiki/Metadata)
+        - [Java Annotation](https://en.wikipedia.org/wiki/Java_annotation)
+      - [Reflective Programming](https://en.wikipedia.org/wiki/Reflective_programming)
 
 <!---
 nikitaskostas/nikitaskostas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
