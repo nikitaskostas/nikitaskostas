@@ -45,6 +45,25 @@
       - [API](https://en.wikipedia.org/wiki/API)
         - [Interface](https://en.wikipedia.org/wiki/Interface_(computing)) see can of worms.
           - [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
+        - [Microservices](https://en.wikipedia.org/wiki/Microservices)
+          - [Monolith](https://en.wikipedia.org/wiki/Monolithic_application)
+          - [Domain-Driven-Design](https://en.wikipedia.org/wiki/Domain-driven_design)
+          - [Build](https://en.wikipedia.org/wiki/Build_automation) and [Release Autonomously](https://en.wikipedia.org/wiki/Application-release_automation)
+          - [Continuous Delivery](https://en.wikipedia.org/wiki/Continuous_delivery)
+          - [Serverless Computing](https://en.wikipedia.org/wiki/Serverless_computing)
+            - [Utility Protramming](https://en.wikipedia.org/wiki/Utility_computing)
+              - [Virtual Machine](https://en.wikipedia.org/wiki/Virtual_machine)
+              - [Distributed Computing](https://en.wikipedia.org/wiki/Distributed_computing)
+              - [Container](https://en.wikipedia.org/wiki/OS-level_virtualization)
+              - [DevOps](https://en.wikipedia.org/wiki/DevOps)
+            - [Service-Oriented Architecture](https://en.wikipedia.org/wiki/DevOps)
+            - [Resource-Oriented Computing](https://en.wikipedia.org/wiki/Resource-oriented_computing)
+            - [Hexagonal Architecture](https://en.wikipedia.org/wiki/Resource-oriented_computing)
+            - [Software Architect](https://en.wikipedia.org/wiki/Software_architect)
+              - [Software Architecture](https://en.wikipedia.org/wiki/Software_architecture)
+              - [List of system quality attributes](https://en.wikipedia.org/wiki/List_of_system_quality_attributes)
+              - [Non-functional requirement](https://en.wikipedia.org/wiki/Non-functional_requirement)
+            - [Mashup](https://en.wikipedia.org/wiki/Mashup_(web_application_hybrid))
       - [Web Framework](https://en.wikipedia.org/wiki/Web_framework)
         - [Software Stack](https://en.wikipedia.org/wiki/Solution_stack) HOLY SHIT !!
           - [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle))
@@ -64,6 +83,8 @@
       - [Metadata](https://en.wikipedia.org/wiki/Metadata)
         - [Java Annotation](https://en.wikipedia.org/wiki/Java_annotation)
       - [Reflective Programming](https://en.wikipedia.org/wiki/Reflective_programming)
+- [ToolLLM](https://arxiv.org/pdf/2307.16789)
+  - 
 
 <!---
 nikitaskostas/nikitaskostas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
