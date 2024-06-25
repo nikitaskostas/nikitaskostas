@@ -38,44 +38,17 @@
   - _scuffed_ - adjective. marred or scratched by scraping or hard use: He had on a worn-out old coat, workman's pants, and scuffed boots.
  
 ## June
-- LLM tools
-  - [llama-fs](https://github.com/iyaja/llama-fs)
-    - [FastAPI](https://fastapi.tiangolo.com/) and on [Wikipedia](https://en.wikipedia.org/wiki/FastAPI)
-      - [REST](https://en.wikipedia.org/wiki/REST)ful APIs ie. Representational state transfer
-      - [API](https://en.wikipedia.org/wiki/API)
-        - [Interface](https://en.wikipedia.org/wiki/Interface_(computing)) see can of worms.
-          - [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
-        - [Microservices](https://en.wikipedia.org/wiki/Microservices)
-          - [Monolith](https://en.wikipedia.org/wiki/Monolithic_application)
-          - [Domain-Driven-Design](https://en.wikipedia.org/wiki/Domain-driven_design)
-          - [Build](https://en.wikipedia.org/wiki/Build_automation) and [Release Autonomously](https://en.wikipedia.org/wiki/Application-release_automation)
-          - [Continuous Delivery](https://en.wikipedia.org/wiki/Continuous_delivery)
-          - [Serverless Computing](https://en.wikipedia.org/wiki/Serverless_computing)
-            - [Utility Protramming](https://en.wikipedia.org/wiki/Utility_computing)
-              - [Virtual Machine](https://en.wikipedia.org/wiki/Virtual_machine)
-              - [Distributed Computing](https://en.wikipedia.org/wiki/Distributed_computing)
-              - [Container](https://en.wikipedia.org/wiki/OS-level_virtualization)
-              - [DevOps](https://en.wikipedia.org/wiki/DevOps)
-            - [Service-Oriented Architecture](https://en.wikipedia.org/wiki/DevOps)
-            - [Resource-Oriented Computing](https://en.wikipedia.org/wiki/Resource-oriented_computing)
-            - [Hexagonal Architecture](https://en.wikipedia.org/wiki/Resource-oriented_computing)
-            - [Software Architect](https://en.wikipedia.org/wiki/Software_architect)
-              - [Software Architecture](https://en.wikipedia.org/wiki/Software_architecture)
-              - [List of system quality attributes](https://en.wikipedia.org/wiki/List_of_system_quality_attributes)
-              - [Non-functional requirement](https://en.wikipedia.org/wiki/Non-functional_requirement)
-            - [Mashup](https://en.wikipedia.org/wiki/Mashup_(web_application_hybrid))
-      - [Web Framework](https://en.wikipedia.org/wiki/Web_framework)
-        - [Software Stack](https://en.wikipedia.org/wiki/Solution_stack) HOLY SHIT !!
-          - [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle))
-            - [Apache](https://en.wikipedia.org/wiki/Apache_HTTP_Server) [Webserver](https://en.wikipedia.org/wiki/Web_server)
-              - [Daemon](https://en.wikipedia.org/wiki/Daemon_(computing))
-              - [Data Validation](https://en.wikipedia.org/wiki/Data_validation)
-              - [Serialization](https://en.wikipedia.org/wiki/Serialization)
-          - [Frontend / Backend](https://en.wikipedia.org/wiki/Frontend_and_backend)
-        - [Web server](https://en.wikipedia.org/wiki/Web_server)
-        - [Software Repository](https://en.wikipedia.org/wiki/Software_repository)
-      - [OpenAI Specification](https://en.wikipedia.org/wiki/OpenAPI_Specification)
-  - Can of Worms (opened: no)
+- Reading List
+ - TALLM Lecture
+   - My presentation [ToolLLM](https://arxiv.org/pdf/2307.16789)
+ - [Human-Centered Planning](https://arxiv.org/pdf/2311.04403)
+ - [Attention is all you need](https://arxiv.org/pdf/1706.03762)
+- Making List
+ - [llama-fs](https://github.com/iyaja/llama-fs)
+ - [FastAPI](https://fastapi.tiangolo.com/) [Wikipedia link](https://en.wikipedia.org/wiki/FastAPI)
+- Project List
+
+  - Can of Worms I - "The devil is in the details - Programming Languages"
     - [Marker Interfaces](https://en.wikipedia.org/wiki/Marker_interface_pattern)
       - [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
       - Java Objects: Interface [Serializable](https://docs.oracle.com/en/java/javase/19/docs/api/java.base/java/io/Serializable.html) and [ObjectOutputStream](https://docs.oracle.com/en/java/javase/19/docs/api/java.base/java/io/ObjectOutputStream.html)
@@ -83,8 +56,44 @@
       - [Metadata](https://en.wikipedia.org/wiki/Metadata)
         - [Java Annotation](https://en.wikipedia.org/wiki/Java_annotation)
       - [Reflective Programming](https://en.wikipedia.org/wiki/Reflective_programming)
-- [ToolLLM](https://arxiv.org/pdf/2307.16789)
-  - 
+- Can of Worms II - "Why didn't someone explain it to me earlier - Programming Architectures"
+ - [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
+ - [Software Architect](https://en.wikipedia.org/wiki/Software_architect)
+    - [Software Architecture](https://en.wikipedia.org/wiki/Software_architecture)
+    - [List of system quality attributes](https://en.wikipedia.org/wiki/List_of_system_quality_attributes)
+    - [Non-functional requirement](https://en.wikipedia.org/wiki/Non-functional_requirement)
+  - [Microservices](https://en.wikipedia.org/wiki/Microservices)
+  - [Monolith](https://en.wikipedia.org/wiki/Monolithic_application)
+  - [Domain-Driven-Design](https://en.wikipedia.org/wiki/Domain-driven_design)
+  - [Build](https://en.wikipedia.org/wiki/Build_automation) and [Release Autonomously](https://en.wikipedia.org/wiki/Application-release_automation)
+  - [Continuous Delivery](https://en.wikipedia.org/wiki/Continuous_delivery)
+  - [Serverless Computing](https://en.wikipedia.org/wiki/Serverless_computing)
+    - [Utility Computing](https://en.wikipedia.org/wiki/Utility_computing)
+      - [Virtual Machine](https://en.wikipedia.org/wiki/Virtual_machine)
+      - [Distributed Computing](https://en.wikipedia.org/wiki/Distributed_computing)
+      - [Container](https://en.wikipedia.org/wiki/OS-level_virtualization)
+      - [DevOps](https://en.wikipedia.org/wiki/DevOps)
+    - [Service-Oriented Architecture](https://en.wikipedia.org/wiki/Service-oriented_architecture)
+    - [Resource-Oriented Computing](https://en.wikipedia.org/wiki/Resource-oriented_computing)
+    - [Hexagonal Architecture](https://en.wikipedia.org/wiki/Hexagonal_architecture)
+    - [Mashup](https://en.wikipedia.org/wiki/Mashup_(web_application_hybrid))
+  - [Web Framework](https://en.wikipedia.org/wiki/Web_framework)
+    - [Software Stack](https://en.wikipedia.org/wiki/Solution_stack)
+      - [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle))
+        - [Apache](https://en.wikipedia.org/wiki/Apache_HTTP_Server) [Webserver](https://en.wikipedia.org/wiki/Web_server)
+          - [Daemon](https://en.wikipedia.org/wiki/Daemon_(computing))
+          - [Data Validation](https://en.wikipedia.org/wiki/Data_validation)
+          - [Serialization](https://en.wikipedia.org/wiki/Serialization)
+      - [Frontend / Backend](https://en.wikipedia.org/wiki/Frontend_and_backend)
+    - [Web server](https://en.wikipedia.org/wiki/Web_server)
+    - [Software Repository](https://en.wikipedia.org/wiki/Software_repository)
+- Can of Worms III: "One Punch Card - APIs"
+  - [REST](https://en.wikipedia.org/wiki/REST)ful APIs ie. Representational state transfer
+  - [API](https://en.wikipedia.org/wiki/API)
+    - [Interface](https://en.wikipedia.org/wiki/Interface_(computing))
+  - [OpenAI Specification](https://en.wikipedia.org/wiki/OpenAPI_Specification)
+
+
 
 <!---
 nikitaskostas/nikitaskostas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
